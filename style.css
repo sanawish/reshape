@@ -1,0 +1,12 @@
+
+    .bg-img {
+        background-image: url(./img/pexels-berk-ozdemir-3779822.jpg);
+        height: 650px;
+        width: px;
+        position: relative;
+        background-position:right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content: center;
+        
+      }
